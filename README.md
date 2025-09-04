@@ -1,1 +1,3 @@
-# Sales-Dashboard
+📊 Sales Analytics Dashboard – Power BI
+
+This project is an interactive Power BI dashboard built using the provided sales dataset to analyze business performance. It provides clear insights into key metrics such as total sales, profit trends, regional performance, top-performing products, and customer segments. The dashboard includes dynamic filters, drill-through functionality, and visually engaging charts to help stakeholders track KPIs and make data-driven decisions. Designed with a focus on usability and clarity, this dashboard demonstrates my skills in data modeling, DAX calculations, and interactive report building in Power BI.
